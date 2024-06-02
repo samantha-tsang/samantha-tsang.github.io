@@ -16,7 +16,7 @@ description: > # your text below (remove <br> elements if you don't need line br
     <br>
     <img src="https://github.com/samantha-tsang/samantha-tsang.github.io/blob/master/images/ucla-logo.png?raw=true" width="30%" height="30%"/>
     <img src="https://github.com/samantha-tsang/samantha-tsang.github.io/blob/master/images/mit_logo.png?raw=true" width="30%" height="30%"/>
-  </p>
+   </p>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
