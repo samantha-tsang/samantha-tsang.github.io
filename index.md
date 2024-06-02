@@ -35,7 +35,7 @@ The purpose of this project was to develop a system to detect and prevent movie 
 #### Leveraging LLMs to solve Long Horizon Tasks via Reinforcement Learning
 The purpose of this project was to enhance the training of agents for long-horizon tasks by leveraging large language models (LLMs) in conjunction with reinforcement learning (RL). Our goal was to enable agents to break down complex tasks into simpler, sequential sub-tasks, thereby improving their ability to complete intricate objectives composed of skills already known to the agent. We (a team of 2) implemented an LLM pipeline for subgoal generation, where the LLM parsed input prompts to generate ordered sets of subgoals. These subgoals were then used in a Deep Deterministic Policy Gradient (DDPG) framework to train agents in a simulated kitchen environment. This approach demonstrated the potential of integrating LLMs with RL to tackle long-horizon tasks more effectively.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/6.8200 Project.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
