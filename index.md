@@ -17,7 +17,10 @@ Thank you for visiting my portfolio!
 ### Natural Language Processing
 
 [Movie Reviews Spoiler Detection](https://github.com/samantha-tsang/Movie_Spoiler_Detection)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<br>
+The purpose of this project was to develop a system to detect and prevent movie spoilers in user reviews, thereby enhancing the user experience by safeguarding against unwanted plot disclosures. This method utilized a Hierarchical Attention Network (HAN), which incorporated a Bi-Directional RNN with GRU to capture sequential dependencies between words and sentences. This model also featured an attention layer that created sentence and document representations through a learned weighted average of words and sentences. The system effectively processed over 500K movie reviews, accurately identifying and flagging potential spoilers with an AUC of 77%.
+<br>
+<img src="images/Edge Presentation.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
