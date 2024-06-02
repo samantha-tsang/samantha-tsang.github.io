@@ -10,9 +10,13 @@ Thank you for visiting my portfolio!
 
 ---
 
-### Category Name 1 
+## Non-Internship Projects
 
-[Project 1 Title](/sample_page)
+---
+
+### Natural Language Processing
+
+[Movie Reviews Spoiler Detection](https://github.com/samantha-tsang/Movie_Spoiler_Detection)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -25,7 +29,7 @@ Thank you for visiting my portfolio!
 
 ---
 
-### Category Name 2
+### Reinforcement Learning
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -34,6 +38,8 @@ Thank you for visiting my portfolio!
 - [Project 5 Title](http://example.com/)
 
 ---
+
+### Multimodal Deep Learning
 
 
 
