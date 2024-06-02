@@ -16,7 +16,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   
   Thank you for visiting my portfolio!
   
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/samanthawingtungtsang/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
