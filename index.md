@@ -20,10 +20,13 @@ Thank you for visiting my portfolio!
 <br>
 The purpose of this project was to develop a system to detect and prevent movie spoilers in user reviews, thereby enhancing the user experience by safeguarding against unwanted plot disclosures. This method utilized a Hierarchical Attention Network (HAN), which incorporated a Bi-Directional RNN with GRU to capture sequential dependencies between words and sentences. This model also featured an attention layer that created sentence and document representations through a learned weighted average of words and sentences. The system effectively processed over 500K movie reviews, accurately identifying and flagging potential spoilers with an AUC of 77%.
 <br>
+
 <img src="images/Edge Presentation.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Leveraging LLMs to solve Long Horizon Tasks via Reinforcement Learning]
+The purpose of this project was to enhance the training of agents for long-horizon tasks by leveraging large language models (LLMs) in conjunction with reinforcement learning (RL). Our goal was to enable agents to break down complex tasks into simpler, sequential sub-tasks, thereby improving their ability to complete intricate objectives composed of skills already known to the agent. We (a team of 2) implemented an LLM pipeline for subgoal generation, where the LLM parsed input prompts to generate ordered sets of subgoals. These subgoals were then used in a Deep Deterministic Policy Gradient (DDPG) framework to train agents in a simulated kitchen environment. This approach demonstrated the potential of integrating LLMs with RL to tackle long-horizon tasks more effectively.
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -32,7 +35,7 @@ The purpose of this project was to develop a system to detect and prevent movie 
 
 ---
 
-### Reinforcement Learning
+### Optimization
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -43,6 +46,7 @@ The purpose of this project was to develop a system to detect and prevent movie 
 ---
 
 ### Multimodal Deep Learning
+
 
 
 
