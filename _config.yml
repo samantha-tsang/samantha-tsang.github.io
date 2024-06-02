@@ -1,19 +1,19 @@
 title: Samantha Tsang # your name (or website title) here
 logo: "/images/Samantha Tsang_MBAn20245970_3 1.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Hi! I am Samantha Tsang, currently a pursuing a Masters in Business Analytics at MIT Sloan School of Management,
-  with a focus in Machine Learning and Optimization. 
-  Prior to MIT, I graduated at UCLA with a Bachelor's degree in Statistics. 
-  I am experienced in leveraging machine learning methods to drive business decisions in various domains such as
-  marketing, healthcare, and technology and am passionate about exploring the interpretability and mitigation of bias in machine learning models. 
-  as well as NLP/LLM applications
-  
-  I thrive in environments where I can continuously learn and adapt to new tools and technologies. Outside of work, 
-  I enjoy completing jigsaw puzzles, building Lego sets, and weightlifting.
-  
-  Thank you for visiting my portfolio!
-  
-  <a href="https://www.linkedin.com/in/samanthawingtungtsang/">View My LinkedIn Profile</a> 
+   <br>
+  <p align="center">
+    Master of Business Analytics, MIT
+    <br>
+    Bachelors of Science, Statistics, UCLA
+    <br><br>
+    <img src="images/linkedin_logo.png?raw=true" width="5%" height="5%"/>
+    <a href="https://www.linkedin.com/in/samanthawingtungtsang/">samanthawingtungtsang</a> 
+    <br>
+    <img src="images/github_logo.png?raw=true" width="5%" height="5%"/>
+    <a href="https://github.com/samantha-tsang/">samantha-tsang</a> 
+    <br>
+  </p>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
