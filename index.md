@@ -1,4 +1,12 @@
-## Portfolio
+## About
+
+Hi! I am Samantha Tsang, currently a pursuing a Masters in Business Analytics at MIT Sloan School of Management, with a focus in Machine Learning and Optimization. 
+
+Prior to MIT, I graduated at UCLA with a Bachelor's degree in Statistics. I am experienced in leveraging machine learning methods to drive business decisions in various domains such as marketing, healthcare, and technology.I am passionate about exploring interpretability and mitigation of bias in machine learning models, as well as NLP/LLM applications.
+  
+I thrive in environments where I can continuously learn and adapt to new tools and technologies. Outside of work, I enjoy completing jigsaw puzzles, building Lego sets, and weightlifting.
+
+Thank you for visiting my portfolio!
 
 ---
 
