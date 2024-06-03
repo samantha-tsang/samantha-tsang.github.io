@@ -48,7 +48,9 @@ In this project, we (a team of 2) tackled the challenge of creating a cost-effic
 
 ---
 
-## Multimodal Deep Learning
+## Deep Learning
+
+#### Multimodal Approach in Melanoma Detection
 In this project, we (a team of 2) aimed to significantly improve early melanoma detection, addressing a critical need as melanoma accounts for 75% of skin cancer-related deaths. By developing a multimodal neural network that integrates both dermoscopic images and patient metadata, we enhanced diagnostic accuracy. Our model, leveraging a pre-trained VGG-16 for image processing and dense layers for tabular data, achieved an AUC of 0.84, outperforming the baseline CNN model's AUC of 0.79. This approach demonstrates the powerful impact of using multimodal data in medical diagnostics, potentially leading to earlier and more accurate melanoma detection, which is vital for effective treatment.
 
 <img src="images/Multi-Modal Approach in Melanoma Detection.jpg?raw=true"/>
