@@ -18,7 +18,7 @@ Thank you for visiting my portfolio!
 
 [Movie Reviews Spoiler Detection](https://github.com/samantha-tsang/Movie_Spoiler_Detection)
 <br>
-The purpose of this project was to develop a system to detect and prevent movie spoilers in user reviews, thereby enhancing the user experience by safeguarding against unwanted plot disclosures. This method utilized a Hierarchical Attention Network (HAN), which incorporated a Bi-Directional RNN with GRU to capture sequential dependencies between words and sentences. This model also featured an attention layer that created sentence and document representations through a learned weighted average of words and sentences. The system effectively processed over 500K movie reviews, accurately identifying and flagging potential spoilers with an AUC of 77%.
+The purpose of this project was to develop a system to detect and prevent movie spoilers in user reviews, thereby enhancing the user experience by safeguarding against unwanted plot disclosures. This method utilized bi-directional recurrent neural networks (RNN) in a hierarchical structure to capture sequential dependencies between words and sentences. This model also featured an attention layer that created sentence and document representations through a learned weighted average of words and sentences. The system effectively processed over 500K movie reviews, accurately identifying and flagging potential spoilers with an AUC of 77%.
 <br>
 
 <img src="images/Edge Presentation.jpg?raw=true"/>
@@ -26,6 +26,7 @@ The purpose of this project was to develop a system to detect and prevent movie 
 ---
 
 [Yelp Reviews Analysis](https://github.com/samantha-tsang/yelpReviewsAnalysis)
+In this project, I aimed to uncover the most discussed topics in Yelp reviews of restaurants in California and understand their influence on extreme ratings. By utilizing Latent Dirichlet Allocation (LDA), I first categorized the reviews into distinct topics. Then, I implemented sentiment analysis to gauge customer sentiment towards these topics and conducted Analysis of Variance (ANOVA) to statistically evaluate their impact on extreme ratings. This approach provided actionable insights for restaurant owners to strategically enhance their services based on customer feedback.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
