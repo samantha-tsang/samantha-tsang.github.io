@@ -27,7 +27,7 @@ The purpose of this project was to develop a system to detect and prevent movie 
 
 [Yelp Reviews Analysis](https://github.com/samantha-tsang/yelpReviewsAnalysis)
 In this project, I aimed to uncover the most discussed topics in Yelp reviews of restaurants in California and understand their influence on extreme ratings. By utilizing Latent Dirichlet Allocation (LDA), I first categorized the reviews into distinct topics. Then, I implemented sentiment analysis to gauge customer sentiment towards these topics and conducted Analysis of Variance (ANOVA) to statistically evaluate their impact on extreme ratings. This approach provided actionable insights for restaurant owners to strategically enhance their services based on customer feedback.
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/yelp-lda.png?raw=true"/>
 
 ---
 
