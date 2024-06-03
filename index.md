@@ -26,6 +26,7 @@ The purpose of this project was to develop a system to detect and prevent movie 
 ---
 
 [Yelp Reviews Analysis](https://github.com/samantha-tsang/yelpReviewsAnalysis)
+<br>
 In this project, I aimed to uncover the most discussed topics in Yelp reviews of restaurants in California and understand their influence on extreme ratings. By utilizing Latent Dirichlet Allocation (LDA), I first categorized the reviews into distinct topics. Then, I implemented sentiment analysis to gauge customer sentiment towards these topics and conducted Analysis of Variance (ANOVA) to statistically evaluate their impact on extreme ratings. This approach provided actionable insights for restaurant owners to strategically enhance their services based on customer feedback.
 <img src="images/yelp-lda.png?raw=true"/>
 
@@ -39,18 +40,13 @@ The purpose of this project was to enhance the training of agents for long-horiz
 <img src="images/6.8200 Project.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 
 ### Optimization
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+#### Optimized Approach for Cost-Efficient Meal Planning
+<br>
+In this project, we (a team of 2) tackled the challenge of creating a cost-efficient weekly meal plan that meets specific health and nutrition goals. By employing mixed-integer optimization, we developed a method to minimize the cost of meals while ensuring nutritional requirements are satisfied. Our approach reduced meal costs by 71.49% compared to baseline methods, demonstrating the effectiveness of optimization in meal planning.
+
 
 ---
 
