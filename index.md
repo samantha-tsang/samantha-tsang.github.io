@@ -39,16 +39,14 @@ The purpose of this project was to enhance the training of agents for long-horiz
 
 ---
 
-### Optimization
+## Optimization
 
 #### Optimized Approach for Cost-Efficient Meal Planning
-<br>
 In this project, we (a team of 2) tackled the challenge of creating a cost-efficient weekly meal plan that meets specific health and nutrition goals. By employing mixed-integer optimization, we developed a method to minimize the cost of meals while ensuring nutritional requirements are satisfied. Our approach reduced meal costs by 71.49% compared to baseline methods, demonstrating the effectiveness of optimization in meal planning.
 
 ---
 
-### Multimodal Deep Learning
-<br>
+## Multimodal Deep Learning
 In this project, we (a team of 2) aimed to significantly improve early melanoma detection, addressing a critical need as melanoma accounts for 75% of skin cancer-related deaths. By developing a multimodal neural network that integrates both dermoscopic images and patient metadata, we enhanced diagnostic accuracy. Our model, leveraging a pre-trained VGG-16 for image processing and dense layers for tabular data, achieved an AUC of 0.84, outperforming the baseline CNN model's AUC of 0.79. This approach demonstrates the powerful impact of using multimodal data in medical diagnostics, potentially leading to earlier and more accurate melanoma detection, which is vital for effective treatment.
 
 
