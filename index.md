@@ -44,6 +44,8 @@ The purpose of this project was to enhance the training of agents for long-horiz
 #### Optimized Approach for Cost-Efficient Meal Planning
 In this project, we (a team of 2) tackled the challenge of creating a cost-efficient weekly meal plan that meets specific health and nutrition goals. By employing mixed-integer optimization, we developed a method to minimize the cost of meals while ensuring nutritional requirements are satisfied. Our approach reduced meal costs by 71.49% compared to baseline methods, demonstrating the effectiveness of optimization in meal planning.
 
+<img src="images/Opt Project Presentation.pptx.jpg?raw=true"/>
+
 ---
 
 ## Multimodal Deep Learning
@@ -52,5 +54,4 @@ In this project, we (a team of 2) aimed to significantly improve early melanoma 
 <img src="images/Multi-Modal Approach in Melanoma Detection.jpg?raw=true"/>
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
