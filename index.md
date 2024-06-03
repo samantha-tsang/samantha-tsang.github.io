@@ -38,6 +38,14 @@ The purpose of this project was to enhance the training of agents for long-horiz
 <img src="images/6.8200 Project.png?raw=true"/>
 
 ---
+## Deep Learning
+
+#### Multimodal Approach in Melanoma Detection
+In this project, we (a team of 2) aimed to significantly improve early melanoma detection, addressing a critical need as melanoma accounts for 75% of skin cancer-related deaths. By developing a multimodal neural network that integrates both dermoscopic images and patient metadata, we enhanced diagnostic accuracy. Our model, leveraging a pre-trained VGG-16 for image processing and dense layers for tabular data, achieved an AUC of 0.84, outperforming the baseline CNN model's AUC of 0.79. This approach demonstrates the powerful impact of using multimodal data in medical diagnostics, potentially leading to earlier and more accurate melanoma detection, which is vital for effective treatment.
+
+<img src="images/Multi-Modal Approach in Melanoma Detection.jpg?raw=true"/>
+
+---
 
 ## Optimization
 
@@ -45,15 +53,6 @@ The purpose of this project was to enhance the training of agents for long-horiz
 In this project, we (a team of 2) tackled the challenge of creating a cost-efficient weekly meal plan that meets specific health and nutrition goals. By employing mixed-integer optimization, we developed a method to minimize the cost of meals while ensuring nutritional requirements are satisfied. Our approach reduced meal costs by 71.49% compared to baseline methods, demonstrating the effectiveness of optimization in meal planning.
 
 <img src="images/Opt Project Presentation.pptx.jpg?raw=true"/>
-
----
-
-## Deep Learning
-
-#### Multimodal Approach in Melanoma Detection
-In this project, we (a team of 2) aimed to significantly improve early melanoma detection, addressing a critical need as melanoma accounts for 75% of skin cancer-related deaths. By developing a multimodal neural network that integrates both dermoscopic images and patient metadata, we enhanced diagnostic accuracy. Our model, leveraging a pre-trained VGG-16 for image processing and dense layers for tabular data, achieved an AUC of 0.84, outperforming the baseline CNN model's AUC of 0.79. This approach demonstrates the powerful impact of using multimodal data in medical diagnostics, potentially leading to earlier and more accurate melanoma detection, which is vital for effective treatment.
-
-<img src="images/Multi-Modal Approach in Melanoma Detection.jpg?raw=true"/>
 
 ---
 <!-- Remove above link if you don't want to attibute -->
